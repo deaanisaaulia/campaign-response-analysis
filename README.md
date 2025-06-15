@@ -78,12 +78,12 @@ df %>%
 
 ## Key Insights
 
-### Campaign Performance Insight
+### 1. Campaign Performance Insight
 ![alt text](https://github.com/deaanisaaulia/campaign-response-analysis/blob/main/pic1.png)
 
 Campaigns 3, 4, and 5 recorded the highest acceptance rates, each around 7.3%. In contrast, Campaign 2 showed the lowest performance with only 1.3% acceptance. Newer or more personalized campaigns seem to resonate better with customers. Campaign 2 might have suffered from poor timing or irrelevant messaging.
 
-### Customer Profile: Responders vs Non-Responders
+### 2. Customer Profile: Responders vs Non-Responders
 
 | Group           | Average Income | Average Age | Married Ratio |
 |-----------------|----------------|-------------|----------------|
@@ -92,13 +92,13 @@ Campaigns 3, 4, and 5 recorded the highest acceptance rates, each around 7.3%. I
 
 Responders tend to be younger, have higher income, and are less likely to be married. These traits suggest a profile of customers more open to promotional offers and brand engagement.
 
-### Campaign Response by Marital Status
+### 3. Campaign Response by Marital Status
 ![alt text](https://github.com/deaanisaaulia/campaign-response-analysis/blob/main/pic2.png)
 
 Customers categorized under YOLO and Absurd marital statuses had the highest response rates (up to 50%). On the other hand, Married and Together customers responded the least.
 Customers with non-traditional relationship statuses may be more open to novel experiences or impulsive buying, making them more receptive to creative campaign messaging.
 
-### Spending Behavior per Product Category
+### 4. Spending Behavior per Product Category
 ![alt text](https://github.com/deaanisaaulia/campaign-response-analysis/blob/main/pic3.png)
 
 Responders spent significantly more in every product category, particularly:
